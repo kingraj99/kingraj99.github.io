@@ -23,6 +23,7 @@ body
 {
 	position: relative;
 	height: 800px;
+        width: 500px;
 	background: #060c21;
 	display: flex;
 	justify-content: center;
