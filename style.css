@@ -3,7 +3,6 @@ body
 {
 	margin: 0;
 	padding: 0;
-	display: table;
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
@@ -22,9 +21,9 @@ body
 .container .box
 {
 position: relative;
-height: 400px;
+height: 500px;
+width: 400px;
 background: #060c21;
-display: table;
 justify-content: center;
 align-items: center;
 border:1px solid #000;
