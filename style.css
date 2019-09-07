@@ -21,7 +21,7 @@ body
 }
 .container .box
 {
-	position: absolute;
+	position: relative;
 	height: 450px;
         width: 350px;
 	background: #060c21;
