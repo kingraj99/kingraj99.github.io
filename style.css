@@ -22,7 +22,7 @@ body
 .container .box
 {
 	position: relative;
-	height: 400px;
+	height: 800px;
 	background: #060c21;
 	display: flex;
 	justify-content: center;
