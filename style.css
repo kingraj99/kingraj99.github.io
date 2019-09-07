@@ -23,8 +23,8 @@ body
 {
 position: relative;
 height: 400px;
-background: 060c21;
-display: block;
+background: #060c21;
+display: none;
 justify-content: center;
 align-items: center;
 border:1px solid #000;
