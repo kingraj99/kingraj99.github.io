@@ -19,17 +19,6 @@ body
 	grid-template-rows: auto;
 	grid-gap: 0 40px;
 }
-.container .box
-{
-	position: relative;
-	height: 400px;
-     
-	background: #060c21;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	border: 1px solid #000;
-}
 .container .box:before
 {
 	content: '';
