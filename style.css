@@ -3,7 +3,7 @@ body
 {
 	margin: 0;
 	padding: 0;
-	display: block;
+	display: list-item;
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
@@ -24,7 +24,7 @@ body
 position: relative;
 height: 400px;
 background: #060c21;
-display: none;
+display: list-item;
 justify-content: center;
 align-items: center;
 border:1px solid #000;
